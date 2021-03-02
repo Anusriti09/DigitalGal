@@ -1,2 +1,2 @@
-# DigitalGal
+# DigitalGallery
 Software Engineering Project
