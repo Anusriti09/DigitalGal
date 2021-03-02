@@ -1,0 +1,2 @@
+# DigitalGal
+Software Engineering Project
